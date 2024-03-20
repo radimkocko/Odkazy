@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00f;
+}
+.informace{
+ text-align: center;
+ font-weight: bold; 
+ font-size: 50px; 
+}
+.kontakty{
+ text-align: center;
+ font-weight: bold; 
+  font-size: 50px; 
+}
+.obsah{
+ text-align: center;
+ font-weight: bold;
+  font-size: 50px; 
+}
+.odkazy{
+ text-align: center;
+ font-weight: bold;
+  font-size: 50px; 
+}
